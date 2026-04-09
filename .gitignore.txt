@@ -1,0 +1,100 @@
+# =========================
+# Unity Generated Folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# =========================
+# Auto Generated VS/MD/Consulo Files
+# =========================
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# =========================
+# Unity3D Generated Meta Files
+# =========================
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# =========================
+# Crash Reports
+# =========================
+sysinfo.txt
+
+# =========================
+# Build Results
+# =========================
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Visual Studio Code
+# =========================
+.vscode/
+
+# =========================
+# Rider
+# =========================
+.idea/
+
+# =========================
+# Unity Addressables
+# =========================
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# =========================
+# Memory Captures
+# =========================
+/[Mm]emoryCaptures/
+
+# =========================
+# Recordings
+# =========================
+/[Aa]ssets/[Rr]ecordings/
+
+# =========================
+# Asset Store Tools
+# =========================
+/[Aa]ssets/AssetStoreTools*
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Others
+# =========================
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
